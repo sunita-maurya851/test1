@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 
 #### error#####
 
 fixed it
+=======
+feature 1
+//some login code with otp
+//100%
+####this above lines will be stored in a hidden git area + temp ####
+>>>>>>> Stashed changes
 
 manali
 
